@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00DE91D924B066AE002E29D6 /* ｙ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ｙ.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00DE91D924B066AE002E29D6 /* namae.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = namae.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00DE91DC24B066AE002E29D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00DE91DE24B066AE002E29D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		00DE91E024B066AE002E29D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		00DE91DA24B066AE002E29D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00DE91D924B066AE002E29D6 /* ｙ.app */,
+				00DE91D924B066AE002E29D6 /* namae.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "ｙ";
 			productName = "ｙ";
-			productReference = 00DE91D924B066AE002E29D6 /* ｙ.app */;
+			productReference = 00DE91D924B066AE002E29D6 /* namae.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.testdevelop.-";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = namae;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.testdevelop.-";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = namae;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
